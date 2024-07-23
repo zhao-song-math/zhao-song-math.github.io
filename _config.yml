@@ -21,7 +21,7 @@ repository               : "zhao-song-math/zhao-song-math.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0417.JPG" # "profile.png"
+  avatar           : "IMG_0417.jpg" # "profile.png"
   name             : "Zhao Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Applied Mathematics"
