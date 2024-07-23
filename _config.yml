@@ -12,7 +12,7 @@ title                    : "Zhao Song"
 title_separator          : "-"
 name                     : &name "Zhao Song"
 description              : &description "PhD in Applied Mathematics"
-url                      : https://zhao-song-math.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhao-song-math.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhao-song-math/zhao-song-math.github.io"
 
