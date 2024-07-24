@@ -23,6 +23,6 @@ Education
 
 Selected Works
 ------
-![behaviors_toy](/images/behaviors_toy.pdf)
+![behaviors_toy](/images/selectedwork1.pdf)
 
-![optima_RG](/images/optima_RG.pdf)
+![optima_RG](/images/selectedwork2.pdf)
