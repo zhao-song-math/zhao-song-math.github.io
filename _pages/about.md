@@ -23,4 +23,6 @@ Education
 
 Selected Works
 ------
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![behaviors_toy](/images/behaviors_toy.pdf)
+
+![optima_RG](/images/optima_RG.pdf)
