@@ -18,10 +18,3 @@ Education
 * Ph.D. in Mathematics, University at Buffalo, the State University of New York, 2022
 * M.A. in Applied Mathematics, University at Buffalo, the State University of New York, 2018
 * B.S. in Information and Computing Science, Henan University of Technology, China, 2015
-
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
