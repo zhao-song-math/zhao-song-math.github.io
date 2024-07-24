@@ -31,8 +31,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/Zhao Song_CV.pdf
+    # url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
