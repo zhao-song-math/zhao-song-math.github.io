@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![behaviors_toy](/images/selectedwork1.jpeg){: .align-right width="500px"}
+![behaviors_toy](/images/selectedwork1.jpeg){align-right width="500px"}
 
 
 Dr. Zhao Song is a postdoctoral researcher in the Department of Mathematics at [Dartmouth College](https://home.dartmouth.edu/), working with [Dr. Peter Mucha](https://mucha.host.dartmouth.edu/). Song received a PhD in Mathematics from [the University at Buffalo, the State University of New York](https://www.buffalo.edu/) in February 2022, where she was supervised by [Dr. Dane Taylor](https://sites.google.com/site/danetaylorresearch/home?authuser=0).
