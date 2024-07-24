@@ -9,7 +9,7 @@ author_profile: true
 
 ### Research Talks
 
-* Jul 2021 - Networks 2021.Virtual
+* Jul 2021 - Networks 2021. Online
   <br /> *Asymmetric Coupling of Networks Optimally Accelerates Collective Dynamics*
 * Apr 2021 - Fourth Northeast Regional Conference on Complex Systems (NERCCS). Online 
   <br /> *Asymmetric Coupling of Networks Optimally Accelerates Collective Dynamics*
