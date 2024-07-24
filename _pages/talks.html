@@ -11,6 +11,7 @@ author_profile: true
 
 {% endif %}
 
+{% include base_path %}
 * Jul 2021 - Networks 2021.Virtual
   Asymmetric Coupling of Networks Optimally Accelerates Collective Dynamics
 * Apr 2021 - Fourth Northeast Regional Conference on Complex Systems (NERCCS). Online 
@@ -23,8 +24,3 @@ author_profile: true
   Diffusion on Multiplex Networks with Asymmetric Coupling
 * Apr 2019 - Second Northeast Regional Conference on Complex Systems (NERCCS). Binghamton, NY, USA 
   Spectrum Behavior of Laplacian for Multiplex Networks
-
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
