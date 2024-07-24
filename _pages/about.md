@@ -24,5 +24,4 @@ Education
 Selected Works
 ------
 ![behaviors_toy](/images/selectedwork1.jpeg)
-<br /> 
-![optima_RG](/images/selectedwork2.jpeg)
+
