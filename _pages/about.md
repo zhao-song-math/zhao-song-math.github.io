@@ -11,7 +11,7 @@ Dr. Zhao Song is a postdoctoral researcher in the Department of Mathematics at [
 
 Research
 ------
-Song’s research includes a variety of topics in the mathematics of network science, complex systems, and data science, including multiplex networks, dynamic systems, and community detection. Using machine learning algorithms and statistical models, Song is interested in the analysis of network representations of data in neuroscience, social science, etc. 
+Song’s research includes a variety of topics in the mathematics of network science, complex systems, and data science, including multiplex networks, dynamic systems, and community detection. Using machine learning algorithms and statistical models, Song focuses on the analysis of network representations of data in fields such as neuroscience and social science 
 
 Education
 ------
