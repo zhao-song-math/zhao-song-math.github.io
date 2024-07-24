@@ -19,3 +19,8 @@ Education
 * Ph.D. in Mathematics, University at Buffalo, the State University of New York, 2022
 * M.A. in Applied Mathematics, University at Buffalo, the State University of New York, 2018
 * B.S. in Information and Computing Science, Henan University of Technology, China, 2015
+
+
+Selected Works
+------
+![Editing a markdown file for a talk](/images/editing-talk.png)
