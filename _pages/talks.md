@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Research Talks
+### Research Talks
 
 * Jul 2021 - Networks 2021.Virtual
   Asymmetric Coupling of Networks Optimally Accelerates Collective Dynamics
@@ -23,7 +23,7 @@ author_profile: true
   Spectrum Behavior of Laplacian for Multiplex Networks
 
 
-##Poster Presentations
+### Poster Presentations
 
 * Jul 2020 - SIAM Workshop on Network Science 2020 (NS20). Online 
 Asymmetric Coupling of Layers Accelerates Diffusion on Multiplex Networks
