@@ -10,7 +10,7 @@ author_profile: true
 
 ### Department of Mathematics, Dartmouth College
 **Instructor**
-* MATH 3: Calculus (Fall 2022)
+* MATH 3: [Calculus](https://canvas.dartmouth.edu/courses/54901) (Fall 2022)
 
 ### Department of Mathematics, University at Buffalo
 **Teaching Assistant**
